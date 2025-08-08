@@ -1,0 +1,8 @@
+,n_trades,n_trades,n_trades,n_trades,accounts_active,accounts_active,accounts_active,accounts_active,volume_usd,volume_usd,volume_usd,volume_usd,win_rate,win_rate,win_rate,win_rate,pnl_sum,pnl_sum,pnl_sum,pnl_sum,long_share,long_share,long_share,long_share
+,mean,median,std,count,mean,median,std,count,mean,median,std,count,mean,median,std,count,mean,median,std,count,mean,median,std,count
+sentiment_clean,,,,,,,,,,,,,,,,,,,,,,,,
+Extreme Greed,6962.0,6962.0,,1,5.0,5.0,,1,39406770.25,39406770.25,,1,0.4901,0.4901,,1,176965.4918,176965.4918,,1,0.4842,0.4842,,1
+Fear,133871.0,133871.0,,1,32.0,32.0,,1,704158492.98,704158492.98,,1,0.4151,0.4151,,1,6699925.1906,6699925.1906,,1,0.4936,0.4936,,1
+Greed,12096.3333,1045.0,20050.6393,3,10.6667,2.0,15.885,3,38501223.95,11555429.76,56972068.1011,3,0.2421,0.2746,0.2276,3,1063205.5118,155.5034,1841391.2971,3,0.6311,0.4699,0.3203,3
+Neutral,7141.0,7141.0,,1,8.0,8.0,,1,21843234.35,21843234.35,,1,0.3172,0.3172,,1,158742.3781,158742.3781,,1,0.4908,0.4908,,1
+nan,26961.0,26961.0,,1,25.0,25.0,,1,310275273.03,310275273.03,,1,0.3492,0.3492,,1,71709.3476,71709.3476,,1,0.5311,0.5311,,1

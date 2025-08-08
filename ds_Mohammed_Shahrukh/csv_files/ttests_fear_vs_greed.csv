@@ -1,0 +1,5 @@
+metric,t_stat,p_value,n_fear,n_greed
+volume_usd,,,1,3
+win_rate,,,1,3
+pnl_sum,,,1,3
+long_share,,,1,3
